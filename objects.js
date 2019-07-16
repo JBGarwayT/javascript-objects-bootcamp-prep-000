@@ -4,3 +4,7 @@ var playlist = {
   function updatePlaylist(object, string, name) {
     playlist.Slowdive = "alison";
   }
+  
+  function removeFromPlaylist(object, string) {
+    
+  }
