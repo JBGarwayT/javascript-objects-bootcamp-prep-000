@@ -6,5 +6,5 @@ var playlist = {
   }
   
   function removeFromPlaylist(object, string) {
-    
+    delete playlist.Slowdive;
   }
