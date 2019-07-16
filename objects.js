@@ -1,1 +1,1 @@
-var playlist = {Eddie Murphy: Mushu,}
+var playlist = {"Eddie Murphy": Mushu}
