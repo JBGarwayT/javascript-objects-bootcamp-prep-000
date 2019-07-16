@@ -1,1 +1,1 @@
-var playlist = {Eddie Murphy}
+var playlist = {Eddie Murphy: Mushu,}
