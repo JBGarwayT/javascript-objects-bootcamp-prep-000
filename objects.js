@@ -1,2 +1,2 @@
 var playlist = {
-  Blunt: "Mushu"}
+  Eddie: "Mushu"}
